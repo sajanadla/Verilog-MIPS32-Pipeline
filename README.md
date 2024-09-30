@@ -23,10 +23,6 @@ This repository contains Verilog code for a pipelined MIPS32 processor. The MIPS
 * **Hazard Detection and Forwarding:**  Includes mechanisms to handle data hazards and control hazards that arise in a pipelined architecture.
 * **Testbench:** Provides a testbench for verifying the functionality of the processor.
 
-## Getting Started
-
-1. **Clone the Repository:** `git clone https://github.com/your-username/pipelined-MIPS32-processor.git`
-2. **Simulation:** Use a Verilog simulator (e.g., ModelSim, Icarus Verilog) to simulate the design and run test programs.
 
 ## Project Structure
 
